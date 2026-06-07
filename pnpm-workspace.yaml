@@ -1,0 +1,4 @@
+packages:
+  - 'packages/*'
+
+install-strategy: "linked"
